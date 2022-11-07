@@ -4,6 +4,7 @@
 
 namespace WebAppProject8.Migrations
 {
+    //Modupeoluwa Daniel
     public partial class Initial : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
