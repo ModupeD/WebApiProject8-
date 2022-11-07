@@ -1,0 +1,7 @@
+C:\Users\modupedaniel\source\repos\WebAppProject8\obj\Debug\netcoreapp3.1\WebAppProject8.csproj.AssemblyReference.cache
+C:\Users\modupedaniel\source\repos\WebAppProject8\obj\Debug\netcoreapp3.1\WebAppProject8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\modupedaniel\source\repos\WebAppProject8\obj\Debug\netcoreapp3.1\WebAppProject8.AssemblyInfoInputs.cache
+C:\Users\modupedaniel\source\repos\WebAppProject8\obj\Debug\netcoreapp3.1\WebAppProject8.AssemblyInfo.cs
+C:\Users\modupedaniel\source\repos\WebAppProject8\obj\Debug\netcoreapp3.1\WebAppProject8.csproj.CoreCompileInputs.cache
+C:\Users\modupedaniel\source\repos\WebAppProject8\obj\Debug\netcoreapp3.1\WebAppProject8.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\modupedaniel\source\repos\WebAppProject8\obj\Debug\netcoreapp3.1\WebAppProject8.MvcApplicationPartsAssemblyInfo.cache
